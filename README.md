@@ -23,9 +23,12 @@ _Vawsum Schools Pvt Ltd_
 _Vawsum Schools Pvt Ltd_
 1. Developed an automated system to send SMSes along with custom dashboards and analytics.
 
-
+**Developer Intern (Dec'13 - Mar'14)** <br />
+1. Converting client PSDs to actual websites.
 
 ## Education 
+- Master of Computer Applications [National Institute of Technology, Jamshedpur (2014-17)] **8.5 CGPA**
+- B.Sc. in Computer Science(Honors) [Jogesh Chandra Chaudhuri College, Kolkata (2011 - 14)] **70% Honors**
 
 ## Personal Projects
 
