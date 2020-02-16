@@ -14,10 +14,14 @@ _Vawsum Schools Pvt Ltd_
 4. Admission Inquiry module with referral programs.
 5. Invoice generation and integration with the system to end cash transactions.
 
-**Software Engineer (July'18 - June'219** <br />
+**Software Engineer (July'18 - June'19)** <br />
 _Vawsum Schools Pvt Ltd_
 1. Integrated IOT with custom apps using .NET for tracking school buses.
 2. Integration of RFID readers for school's attendance.
+
+**Associate Trainee (Oct'16 - June'18)** <br />
+_Vawsum Schools Pvt Ltd_
+1. Developed an automated system to send SMSes along with custom dashboards and analytics.
 
 
 
