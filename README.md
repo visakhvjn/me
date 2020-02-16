@@ -8,20 +8,20 @@ CakePHP, JavaScript, Jquery, Python, MongoDb, MySql, Mongoose, NodeJs, ExpressJs
 ## Work Experience
 **Senior Software Engineer (July'19 - January'20)** <br />
 _Vawsum Schools Pvt Ltd_
-1. Designed Payments Module with reports, configurations, subscriptions and gateway integration for school ERPs.
-2. Teaching Assistant that shows curated content based on application usage.
-3. Integration of Timetable generation software with the current architecture.
-4. Admission Inquiry module with referral programs.
-5. Invoice generation and integration with the system to end cash transactions.
+- Designed Payments Module with reports, configurations, subscriptions and gateway integration for school ERPs.
+- Teaching Assistant that shows curated content based on application usage.
+- Integration of Timetable generation software with the current architecture.
+- Admission Inquiry module with referral programs.
+- Invoice generation and integration with the system to end cash transactions.
 
 **Software Engineer (July'18 - June'19)** <br />
 _Vawsum Schools Pvt Ltd_
-1. Integrated IOT with custom apps using .NET for tracking school buses.
-2. Integration of RFID readers for school's attendance.
+- Integrated IOT with custom apps using .NET for tracking school buses.
+- Integration of RFID readers for school's attendance.
 
 **Associate Trainee (Oct'16 - June'18)** <br />
 _Vawsum Schools Pvt Ltd_
-1. Developed an automated system to send SMSes along with custom dashboards and analytics.
+- Developed an automated system to send SMSes along with custom dashboards and analytics.
 
 **Developer Intern (Dec'13 - Mar'14)** <br />
 1. Converting client PSDs to actual websites.
